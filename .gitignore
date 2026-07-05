@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Base de datos local
+*.mdf
+*.ldf
+
+# Configuración local
+appsettings.Development.json
